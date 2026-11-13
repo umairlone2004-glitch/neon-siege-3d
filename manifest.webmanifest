@@ -1,0 +1,18 @@
+{
+  "name": "Neon Siege 3D",
+  "short_name": "Neon Siege",
+  "description": "A 3D wave-survival arena shooter built with WebGL. Hold the arena, upgrade your rig, survive the bosses.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#05060f",
+  "theme_color": "#05060f",
+  "categories": ["games", "action"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
